@@ -2,10 +2,9 @@
 # Toronto Nail Salon Location Analytics
 
 ## Project Overview
+The UTSC Venture Capital Fund is investing up to $1 million CAD to launch a new local business in Toronto. 
 This project analyzes Toronto neighborhoods to identify optimal locations for opening a new nail salon business. Using data-driven insights from multiple sources, we evaluate areas based on demographics, income levels, competitor density, and other relevant factors to make informed business location decisions.
 
-## Business Problem
-The UTSC Venture Capital Fund is investing up to $1 million CAD to launch a new local business in Toronto. Our analysis focuses on identifying the most profitable location for a nail salon by analyzing neighborhood demographics and existing competition.
 
 ## Data Sources
 - **Census Data (2021)**: Population demographics, income levels, age distributions
@@ -37,5 +36,19 @@ The UTSC Venture Capital Fund is investing up to $1 million CAD to launch a new 
 - **Key Metrics Selected**:
   - Existing nail salon density
   - Customer reviews
-  - Customer ratings 
+  - Customer ratings
+
+## Technologies
+- Jupyter
+- Pandas & NumPy for data analysis
+- BeautifulSoup for web scraping
+- Foursquare API for competitors data
+- Folium for geographic visualization
+- Matplotlib & Seaborn for data visualization
+
+## Collaborators
+- Yimeng Li 1007623984
+- Chelsea Ma 1008108879
+- Honghan Li 1007928110
+
 
